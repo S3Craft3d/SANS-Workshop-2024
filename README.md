@@ -6,7 +6,7 @@ As organizations increasingly adopt Infrastructure as Code (IaC) practices, ensu
 
 During this workshop we will complete the [Setup](#setup), [Working with code locally](#working-with-code-locally), [Review the Pipeline](#review-the-pipeline), [Review an OPA Policy](#review-an-opa-policy) and [Exercise 1](#exercise-1---github-actions-and-a-failing-pipeline) as a group. The remainder will be done independently.
 
-## Table of Contents
+## Table of Contents.
 1. [Prerequisites](#prerequisites)
 1. [Reference Materials](#reference-materials)
 1. [Setup](#setup)
